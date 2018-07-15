@@ -1,0 +1,21 @@
+{
+    "configurations": [{
+        "name": "Win32",
+        "includePath": [
+            "${workspaceFolder}/**"
+        ],
+        "compileCommands": "compile_commands.json",
+
+        "defines": [
+            "_DEBUG",
+            "UNICODE",
+            "_UNICODE"
+        ],
+
+        "compilerPath": "C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++",
+        "cStandard": "c11",
+        "cppStandard": "c++17",
+        "intelliSenseMode": "clang-x64"
+    }],
+    "version": 4
+}
